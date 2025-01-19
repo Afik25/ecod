@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Actualités",
+    "path": "/news",
+    "children": []
+  },
+  {
+    "id": 2,
+    "name": "Revues et Articles Scientifiques",
+    "path": "/documents",
+    "children": [
+      {
+        "id": 21,
+        "name": "Mention 1",
+        "path": "/documents/mention1",
+        "children": []
+      },
+      {
+        "id": 22,
+        "name": "Mention 2",
+        "path": "/documents/mention2",
+        "children": []
+      },
+      {
+        "id": 23,
+        "name": "Mention 3",
+        "path": "/documents/mention3",
+        "children": []
+      },
+      {
+        "id": 24,
+        "name": "Mention 4",
+        "path": "/documents/mention4",
+        "children": []
+      },
+      {
+        "id": 25,
+        "name": "Mention 5",
+        "path": "/documents/mention5",
+        "children": []
+      },
+      {
+        "id": 26,
+        "name": "Mention 6",
+        "path": "/documents/mention6",
+        "children": [
+          {
+            "id": 261,
+            "name": "Orientation 1",
+            "path": "/documents/mention6/orientation1"
+          },
+          {
+            "id": 262,
+            "name": "Orientation 2",
+            "path": "/documents/mention6/orientation2"
+          },
+          {
+            "id": 263,
+            "name": "Orientation 3",
+            "path": "/documents/mention6/orientation3"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Mention 7",
+        "path": "/documents/mention7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Les Cours",
+    "path": "/courses",
+    "children": [
+      {
+        "id": 31,
+        "name": "Mention 1",
+        "path": "/courses/mention1",
+        "children": []
+      },
+      {
+        "id": 32,
+        "name": "Mention 2",
+        "path": "/courses/mention2",
+        "children": [
+          {
+            "id": 321,
+            "name": "Orientation 1",
+            "path": "/courses/mention2/orientation1",
+            "children": []
+          },
+          {
+            "id": 322,
+            "name": "Orientation 2",
+            "path": "/courses/mention2/orientation2",
+            "children": []
+          },
+          {
+            "id": 323,
+            "name": "Orientation 3",
+            "path": "/courses/mention2/orientation3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Mention 3",
+        "path": "/courses/mention3",
+        "children": []
+      },
+      {
+        "id": 34,
+        "name": "Mention 4",
+        "path": "/courses/mention4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bibliotheque Numérique",
+    "path": "/library"
+  },
+  {
+    "id": 5,
+    "name": "Archivages",
+    "path": "/archives",
+    "children": [
+      {
+        "id": 51,
+        "name": "Mention 1",
+        "path": "/archives/mention1",
+        "children": [
+          {
+            "id": 511,
+            "name": "Orientation 1",
+            "path": "/archives/mention1/orientation1",
+            "children": []
+          },
+          {
+            "id": 512,
+            "name": "Orientation 2",
+            "path": "/archives/mention1/orientation2",
+            "children": []
+          },
+          {
+            "id": 513,
+            "name": "Orientation 3",
+            "path": "/archives/mention1/orientation3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Mention 2",
+        "path": "/archives/mention2",
+        "children": []
+      }
+    ]
+  }
+]

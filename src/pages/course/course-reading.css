@@ -1,0 +1,45 @@
+.course-reading {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: block;
+}
+.course-reading .wrapper{
+    width: 100%;
+    height: 650px;
+    display: flex;
+}
+.course-reading .wrapper .left{
+    width: 32%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: var(--size-05);
+    overflow-y: auto;
+}
+.course-reading .wrapper .left .link{
+    margin-bottom: var(--size-05);
+    color: var(--color-1);
+    font-family: 'Times New Roman', Times, serif;
+    transition: all .3s ease-in-out;
+}
+.course-reading .wrapper .left .link:hover{
+    color: var(--grey-color-1);
+}
+.course-reading .wrapper .right{
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.course-reading .wrapper .right .img{
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+}

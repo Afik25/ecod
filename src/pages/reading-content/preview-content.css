@@ -1,0 +1,12 @@
+.preview-content {
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  display: block;
+}
+.preview-content .wrapper {
+  width: 80%;
+  margin: auto;
+  padding: var(--size-1) 0;
+}
