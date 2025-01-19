@@ -2,7 +2,7 @@
   "name": "ecod",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Afik25.github.io/ecodoc",
+  "homepage": "https://Afik25.github.io/ecod",
   "dependencies": {
     "@hookform/resolvers": "^2.9.10",
     "@react-pdf-viewer/core": "^3.12.0",

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ecod/static/css/main.e2ddf20e.css",
+    "main.js": "/ecod/static/js/main.8116fdfb.js",
+    "static/media/pdf.worker.min.mjs": "/ecod/static/media/pdf.worker.min.01b8b02614d5cdbbb80c.mjs",
+    "static/media/reading-course.mp4": "/ecod/static/media/reading-course.431b3080ffbee75be445.mp4",
+    "static/media/Amiri-Regular.ttf": "/ecod/static/media/Amiri-Regular.0666808e81a5c9f77f4f.ttf",
+    "static/media/Shalimar-Regular.ttf": "/ecod/static/media/Shalimar-Regular.10248c233c2e4f27901f.ttf",
+    "static/media/phd-student.jpg": "/ecod/static/media/phd-student.a0d670e3acdc052096b0.jpg",
+    "static/media/banner-background.jpg": "/ecod/static/media/banner-background.b870543154c5fc5720af.jpg",
+    "static/media/Raleway-Light.ttf": "/ecod/static/media/Raleway-Light.58bcdae09d89ccd8d086.ttf",
+    "static/media/Raleway-Medium.ttf": "/ecod/static/media/Raleway-Medium.601cda68c7b7bbcc9a12.ttf",
+    "static/media/Raleway-Regular.ttf": "/ecod/static/media/Raleway-Regular.3927fa2a37e6f7f4c7c0.ttf",
+    "static/media/book.jpg": "/ecod/static/media/book.bcb0f7c924f0844b2f08.jpg",
+    "static/media/ministere.png": "/ecod/static/media/ministere.f3eee104fc759263a1ce.png",
+    "static/media/electronic.avif": "/ecod/static/media/electronic.9dc6a72197039a34f51d.avif",
+    "static/media/computer-science.avif": "/ecod/static/media/computer-science.fb5a62f99c94b091dc43.avif",
+    "static/media/primature.png": "/ecod/static/media/primature.20d2d8fc6920324d9ce4.png",
+    "static/media/logo.png": "/ecod/static/media/logo.0bd8590f0377c96c5cdd.png",
+    "static/media/aviation.avif": "/ecod/static/media/aviation.78cecf9dbaf742e02c4c.avif",
+    "static/media/presidence.jpeg": "/ecod/static/media/presidence.d85a79452f96f2bdd5e2.jpeg",
+    "index.html": "/ecod/index.html",
+    "main.e2ddf20e.css.map": "/ecod/static/css/main.e2ddf20e.css.map",
+    "main.8116fdfb.js.map": "/ecod/static/js/main.8116fdfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ddf20e.css",
+    "static/js/main.8116fdfb.js"
+  ]
+}
